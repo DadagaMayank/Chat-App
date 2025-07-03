@@ -28,11 +28,11 @@ A full-stack **MERN** Chat Application with **Socket.IO** for realtime messaging
 | Login Page | Sign Up Page |
 |------------|-----------|
 | ![Login Screenshot](./screenshots/1.png) | ![ Screenshot](./screenshots/2.png) |
+
 | chat room | chat room |
 |------------|-----------|
-| ![Login Screenshot](./screenshots/3.png) | ![ Screenshot](./screenshots/4.png) |
+| ![chat Screenshot](./screenshots/3.png) | ![chat Screenshot](./screenshots/4.png) |
 
----
 
 ## ⚙️ Installation
 
