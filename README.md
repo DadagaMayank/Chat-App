@@ -27,7 +27,7 @@ A full-stack **MERN** Chat Application with **Socket.IO** for realtime messaging
 
 | Login Page | Chat Room |
 |------------|-----------|
-| ![Login Screenshot](./screenshots/login.png) | ![Chat Screenshot](./screenshots/chatroom.png) |
+| ![Login Screenshot](./screenshots/1.png) | ![Chat Screenshot](./screenshots/2.png) |
 
 > 📁 Place your screenshots in a `/screenshots` folder inside the project directory and name them `login.png`, `chatroom.png`, etc.
 
