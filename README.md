@@ -7,7 +7,7 @@ A full-stack **MERN** Chat Application with **Socket.IO** for realtime messaging
 ## 🚀 Features
 
 - Real-time messaging with Socket.IO
-- Group & 1-on-1 chats
+- 1-on-1 chats
 - User authentication (JWT)
 - Responsive UI with Tailwind CSS
 - MongoDB for storing user and chat data
@@ -25,11 +25,12 @@ A full-stack **MERN** Chat Application with **Socket.IO** for realtime messaging
 
 ## 📸 Screenshots
 
-| Login Page | Chat Room |
+| Login Page | Sign Up Page |
 |------------|-----------|
-| ![Login Screenshot](./screenshots/1.png) | ![Chat Screenshot](./screenshots/2.png) |
-
-> 📁 Place your screenshots in a `/screenshots` folder inside the project directory and name them `login.png`, `chatroom.png`, etc.
+| ![Login Screenshot](./screenshots/1.png) | ![ Screenshot](./screenshots/2.png) |
+| chat room | chat room |
+|------------|-----------|
+| ![Login Screenshot](./screenshots/3.png) | ![ Screenshot](./screenshots/4.png) |
 
 ---
 
